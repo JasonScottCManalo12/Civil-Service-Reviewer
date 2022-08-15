@@ -1,0 +1,421 @@
+%PDF-1.3
+%âãÏÓ
+%RSTXPDF3 Parameters: DRSXh
+%Devtype SWINCF   Font HELVE    normal Lang EN Script:  0 ->/C001
+2 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 718
+/CapHeight 718
+/Descent -207
+/Flags 32
+/FontBBox [-166 -225 1000 931]
+/FontName /Helvetica
+/ItalicAngle 0
+/StemV 105
+>>
+endobj
+3 0 obj
+/WinAnsiEncoding
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+/Name /C001
+/Encoding 3 0 R
+/Widths
+[ 0275 0275 0354 0554 0554 0888 0667 0192 0333 0333 0388 0583 0275 0333 0275 0275 0554 0554 0554 0554 0554 0554 0554 0554 0554 0554 0275 0275 0583 0583 0583 0554 1017 0667 0667 0721 0721 0667 0608 0775 0721 0275 0500 0667 0554 0833 0721 0775 0667 0775
+ 0721 0667 0608 0721 0667 0942 0667 0667 0608 0275 0275 0275 0471 0554 0333 0554 0554 0500 0554 0554 0275 0554 0554 0221 0221 0500 0221 0833 0554 0554 0554 0554 0333 0500 0275 0554 0500 0721 0500 0500 0500 0333 0258 0333 0583]
+/FirstChar 32
+/LastChar 126
+/FontDescriptor 2 0 R
+>>
+endobj
+%Devtype SWINCF   Font HELVE    normal Lang EN Script: 55 ->/C002
+5 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 718
+/CapHeight 718
+/Descent -207
+/Flags 32
+/FontBBox [-166 -225 1000 931]
+/FontName /Helvetica
+/ItalicAngle 0
+/StemV 105
+>>
+endobj
+6 0 obj
+<<
+/Type /Encoding
+/Differences
+[ 0   /uni2000
+ 1   /uni2001
+ 2   /uni2002
+ 3   /uni2003
+ 4   /uni2004
+ 5   /uni2005
+ 6   /uni2006
+ 7   /uni2007
+ 8   /uni2008
+ 9   /uni2009
+10   /uni200A
+11   /uni200B
+12   /afii61664
+13   /afii301
+14   /afii299
+15   /afii300
+16   /uni2010
+17   /uni2011
+18   /figuredash
+19   /endash
+20   /emdash
+21   /afii00208
+22   /uni2016
+23   /underscoredbl
+24   /quoteleft
+25   /quoteright
+26   /quotesinglbase
+27   /quotereversed
+28   /quotedblleft
+29   /quotedblright
+30   /quotedblbase
+31   /uni201F
+32   /dagger
+33   /daggerdbl
+34   /bullet
+35   /uni2023
+36   /onedotenleader
+37   /twodotenleader
+38   /ellipsis
+39   /uni2027
+40   /uni2028
+41   /uni2029
+42   /uni202A
+43   /uni202B
+44   /afii61573
+45   /afii61574
+46   /afii61575
+47   /uni202F
+48   /perthousand
+49   /uni2031
+50   /minute
+51   /second
+52   /uni2034
+53   /uni2035
+54   /uni2036
+55   /uni2037
+56   /uni2038
+57   /guilsinglleft
+58   /guilsinglright
+59   /uni203B
+60   /exclamdbl
+61   /uni203D
+62   /uni203E
+63   /uni203F
+64   /uni2040
+65   /uni2041
+66   /uni2042
+67   /uni2043
+68   /fraction
+69   /uni2045
+70   /uni2046
+71   /uni2047
+72   /uni2048
+73   /uni2049
+74   /uni204A
+75   /uni204B
+76   /uni204C
+77   /uni204D
+78   /uni204E
+79   /uni204F
+80   /uni2050
+81   /uni2051
+82   /uni2052
+83   /uni2053
+84   /uni2054
+85   /uni2055
+86   /uni2056
+87   /uni2057
+88   /uni2058
+89   /uni2059
+90   /uni205A
+91   /uni205B
+92   /uni205C
+93   /uni205D
+94   /uni205E
+95   /uni205F
+96   /uni2060
+97   /uni2061
+98   /uni2062
+99   /uni2063
+100  /uni2064
+101  /uni2065
+102  /uni2066
+103  /uni2067
+104  /uni2068
+105  /uni2069
+106  /uni206A
+107  /uni206B
+108  /uni206C
+109  /uni206D
+110  /uni206E
+111  /uni206F
+112  /uniFE30
+113  /uniFE31
+114  /uniFE32
+115  /uniFE33
+116  /uniFE34
+117  /uniFE35
+118  /uniFE36
+119  /uniFE37
+120  /uniFE38
+121  /uniFE39
+122  /uniFE3A
+123  /uniFE3B
+124  /uniFE3C
+125  /uniFE3D
+126  /uniFE3E
+127  /uniFE3F
+128  /uniFE40
+129  /uniFE41
+130  /uniFE42
+131  /uniFE43
+132  /uniFE44
+133  /uniFE45
+134  /uniFE46
+135  /uniFE47
+136  /uniFE48
+137  /uniFE49
+138  /uniFE4A
+139  /uniFE4B
+140  /uniFE4C
+141  /uniFE4D
+142  /uniFE4E
+143  /uniFE4F
+144  /uniFE50
+145  /uniFE51
+146  /uniFE52
+147  /uniFE53
+148  /uniFE54
+149  /uniFE55
+150  /uniFE56
+151  /uniFE57
+152  /uniFE58
+153  /uniFE59
+154  /uniFE5A
+155  /uniFE5B
+156  /uniFE5C
+157  /uniFE5D
+158  /uniFE5E
+159  /uniFE5F
+160  /uniFE60
+161  /uniFE61
+162  /uniFE62
+163  /uniFE63
+164  /uniFE64
+165  /uniFE65
+166  /uniFE66
+167  /uniFE67
+168  /uniFE68
+169  /uniFE69
+170  /uniFE6A
+171  /uniFE6B
+172  /uniFE6C
+173  /uniFE6D
+174  /uniFE6E
+175  /uniFE6F
+]
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+/Name /C002
+/Encoding 6 0 R
+/Widths
+[ 0500 1000 0500 1000 0333 0250 0167 0554 0275 0100 0050 0000 0000 0000 0600 0600 0333 0333 0554 0500 1000 0563 0429 0500 0221 0221 0221 0221 0333 0333 0333 0333 0554 0554 0350 0350 0275 0554 1000 0275 0000 0000 0600 0600 0600 0600 0600 0600 1000 1329
+ 0221 0371 0521 0204 0354 0504 0313 0333 0333 1000 0471 0554 0500 0946 0946 0313 0821 0333 0167 0275 0275 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600
+ 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 0600 0600 0600 0600 1000 1000 1000 1000 1000 1000 1000 0167 0250 0167 0600 0167 0167
+ 0333 0167 0600 0200 0200 0200 0200 0200 0200 0333 0400 0233 0350 0200 0350 0350 0350 0600 0167 0333 0533 0608 0600 0600 0600 0600]
+/FirstChar 0
+/LastChar 175
+/FontDescriptor 5 0 R
+>>
+endobj
+8 0 obj
+(HTTPS://ERECRUIT.MERALCO.COM.PH/sap/bc/erec\
+ruiting/verification?param=Y2FuZGlkYXRlX2hy\
+b2JqZWN0PTAxTkE1MDExMTU1NSZjb3JyX2FjdF9ndWl\
+kPTAwNTA1NjhGMURBNDFFRTdBNThDMjE3QjBGOTcyRE\
+FB&sap-client=300&sap-language=EN\
+)
+endobj
+9 0 obj
+<<
+/S /URI
+/URI 8 0 R
+>>
+endobj
+10 0 obj
+<<
+/Type /Border
+/S /U
+/W 2
+>>
+endobj
+11 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect
+[42.50 648.30 494.10 659.85]
+/C [0 0 0.9]
+/A 9 0 R
+/BS 10 0 R
+>>
+endobj
+12 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect
+[42.50 636.30 495.10 647.85]
+/C [0 0 0.9]
+/A 9 0 R
+/BS 10 0 R
+>>
+endobj
+13 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect
+[42.50 624.30 402.80 635.85]
+/C [0 0 0.9]
+/A 9 0 R
+/BS 10 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 15 0 R
+>>
+stream
+ 0 g BT 35.45 807.20 Td 0 Tw /C001 11.00 Tf 0.00 Tw <30392F30382F32303137>Tj ET 0 g BT 42.50 759.05 Td 0 Tw 0.00 Tw <44656172204D612E20417269616E20436F6C65656E20>Tj 0.00 Tw <416C6F6E736F7A616E612C>Tj ET 0 g BT 42.50 723.05 Td 0 Tw 0.00 Tw
+ <5468616E6B20796F7520666F72207265676973746572696E6720696E20>Tj 0.00 Tw <4D6572616C636F>Tj /C002 11.00 Tf <19>Tj /C001 11.00 Tf 0.00 Tw <7320655265637275697420506F7274616C2E20596F7572>Tj 0.00 Tw <2075736572206E616D65206973>Tj ET 0 g BT 42.50 711.05 Td
+ 0 Tw 0.00 Tw <434F4C45454E414C4F4E534F5A414E>Tj ET 0 g BT 42.50 687.05 Td 0 Tw 0.00 Tw <546F20636F6E6669726D20796F757220652D6D61696C206164647265737320>Tj 0.00 Tw <616E64207468757320636F6D706C6574652074686520>Tj 0.00 Tw
+ <726567697374726174696F6E2070726F636573732C20636C69636B20746865>Tj 0.00 Tw <20666F6C6C6F77696E67>Tj ET 0 g BT 42.50 675.05 Td 0 Tw 0.00 Tw <6C696E6B3A>Tj ET 0 g BT 42.50 651.05 Td 0 Tw 0.00 Tw
+ <48545450533A2F2F45524543525549542E4D4552414C434F2E434F4D2E5048>Tj 0.00 Tw <2F7361702F62632F6572656372756974696E672F766572696669636174696F>Tj 0.00 Tw <6E3F706172616D3D593246755A476C6B59>Tj ET 0 g BT 42.50 639.05 Td 0 Tw 0.00 Tw
+ <58526C5832687962324A715A574E3050544178546B45314D4445784D545531>Tj 0.00 Tw <4E535A6A62334A795832466A6446396E64576C6B505441774E5441314E6A68>Tj 0.00 Tw <474D5552424E>Tj ET 0 g BT 42.50 627.05 Td 0 Tw 0.00 Tw
+ <444646525464424E5468444D6A4533516A42474F5463795245464226736170>Tj 0.00 Tw <2D636C69656E743D333030267361702D6C616E67756167653D454E>Tj ET 0 g BT 42.50 603.05 Td 0 Tw 0.00 Tw <596F757273207472756C792C>Tj ET 0 g BT 42.50 579.05 Td 0 Tw 0.00 Tw
+ <54616C656E74205265736F757263696E67>Tj ET 0 g BT 42.50 567.05 Td 0 Tw 0.00 Tw <4D616E696C6120456C65637472696320436F6D70616E79>Tj ET 0 g BT 42.50 543.05 Td 0 Tw 0.00 Tw <2D2D2D>Tj ET
+endstream
+endobj
+15 0 obj
+1774
+endobj
+16 0 obj
+
+[11 0 R
+12 0 R
+13 0 R
+]
+endobj
+17 0 obj
+<<
+/Type /Page
+/MediaBox
+[0 0 595 842]
+/Parent 1 0 R
+/Resources
+<<
+/ProcSet
+[/PDF /Text]
+/Font
+<<
+/C001 4 0 R
+/C002 7 0 R
+>>
+/XObject
+<<
+>>
+>>
+/Contents 14 0 R
+/Annots 16 0 R
+>>
+endobj
+18 0 obj
+<<
+/Author (SAP E-Recruiting)
+/CreationDate (D:20170908144341)
+/Creator (Form YN_HRRCF_CS_IT_EXA_VERIF_REG EN)
+/Producer (SAP NetWeaver 702 )
+%SAPinfoStart TOA_DARA
+%FUNCTION=(    )
+%MANDANT=(   )
+%DEL_DATE=(        )
+%SAP_OBJECT=(          )
+%AR_OBJECT=(          )
+%OBJECT_ID=(                                                  )
+%FORM_ID=(                                        )
+%FORMARCHIV=(  )
+%RESERVE=(                           )
+%NOTIZ=(                                                                )
+%-(                                                                )
+%-(                                                                )
+%-(                                                                )
+%SAPinfoEnd TOA_DARA
+>>
+endobj
+1 0 obj
+<<
+/Type /Pages
+/Kids
+[ 17 0 R
+]
+/Count 1
+>>
+endobj
+19 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/PageMode /UseNone
+>>
+endobj
+xref
+0 20
+0000000000 65535 f
+0000008712 00000 n
+0000000113 00000 n
+0000000298 00000 n
+0000000333 00000 n
+0000001050 00000 n
+0000001235 00000 n
+0000004019 00000 n
+0000005077 00000 n
+0000005318 00000 n
+0000005364 00000 n
+0000005418 00000 n
+0000005547 00000 n
+0000005676 00000 n
+0000005805 00000 n
+0000007640 00000 n
+0000007664 00000 n
+0000007712 00000 n
+0000007929 00000 n
+0000008781 00000 n
+trailer
+<<
+/Size 20
+/Root 19 0 R
+/Info 18 0 R
+>>
+startxref
+8857
+%%EOF
